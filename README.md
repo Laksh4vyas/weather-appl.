@@ -2,10 +2,6 @@
 
 A simple yet elegant **Weather App** built using **Python** and **Tkinter**. This application allows users to fetch **real-time weather information** (temperature, humidity, and condition) for any city using the **OpenWeatherMap API** — all within a clean and user-friendly GUI.
 
-| Main GUI |
-|----------|
-| ![Weather GUI](./assets/weather-app.png) |
-
 ---
 
 ## 🔑 Key Features
